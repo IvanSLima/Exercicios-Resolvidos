@@ -1,2 +1,2 @@
 # Programas-Python-POO-Avançado
-Uma série de exercícios resolvidos em Python  
+Padrões de projeto em Python utilizando (Programação orientada a objeto avançado)
